@@ -14,9 +14,9 @@ This is a simple car rental system web application designed to help users find a
 
 # Technologies Used
 
--- HTML
--- CSS
--- JavaScript
+- HTML
+- CSS
+- JavaScript
 
 # Getting Started
 
